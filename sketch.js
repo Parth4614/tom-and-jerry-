@@ -7,7 +7,7 @@ tom1Image=loadAnimation("images/cat1.png")
 tom2Image=loadAnimation("images/cat2.png","images/cat3.png")
 tom3Image=loadAnimation("images/cat4.png")
 jerry1Image=loadAnimation("images/mouse1.png")
-jerrry2Image=loadAnimation("images/mouse2.png","images/mouse3.png")
+jerry2Image=loadAnimation("images/mouse2.png","images/mouse3.png")
 jerry3Image=loadAnimation("images/mouse4.png")
 
 
